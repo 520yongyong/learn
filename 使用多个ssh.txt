@@ -3,4 +3,4 @@
 不要密码的话两次回车
 然后在.ssh/host文件中添加新的信息，记住host
 然后在使用git的文件中命令git remote add origin git@host:520yongyong/...git
-ok
+ok是的
